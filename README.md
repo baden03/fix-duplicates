@@ -7,9 +7,9 @@
   
 **Requires at least:** 2.8.0
   
-**Tested up to:** 3.8.1
+**Tested up to:** 4.1.4
   
-**Stable tag:** 1.0
+**Stable tag:** 1.0.1
   
 Find and delete duplicates posts. There are extensions that allow you find posts with similar content, redirect duplicates to the post you are keeping, etc.
 
@@ -45,5 +45,8 @@ Alternatively, you can install the plugin automatically through the WordPress Ad
 
 ## Changelog ##
 
+### 1.0.1 (29 April 2015) ###
+* Security Fix: properly escape an instance of add_query_arg in order to prevent an XSS vulnerability.
+
 ### 1.0 (5 March 2014) ###
-* Initial Release
+* Initial Release.
