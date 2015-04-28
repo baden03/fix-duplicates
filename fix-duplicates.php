@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Fix Duplicates
-Plugin URI: http://scratch99.com/products/fixduplicates
+Plugin URI: http://scratch99.com/products/fix-duplicates/
 Description: Find and delete duplicates posts, specifying which one to keep (newest, oldest or manual selection). There is a premium extension that allows you to 301 redirect duplicates to the post you are keeping.
 Version: 1.0
 Date: 5 March 2014
