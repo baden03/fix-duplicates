@@ -1,16 +1,16 @@
 # Fix Duplicates #
 **Contributors:** StephenCronin
-  
+
 **Donate link:** [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sjc@scratch99.com&currency_code=&amount=&return=&item_name=WP-FixDuplicates)
-  
+
 **Tags:** duplicates, find duplicates, fix duplicates, duplicate posts, user submitted posts, classifieds
-  
+
 **Requires at least:** 2.8.0
-  
-**Tested up to:** 4.1.4
-  
-**Stable tag:** 1.0.1
-  
+
+**Tested up to:** 4.2.2
+
+**Stable tag:** 1.0.2
+
 Find and delete duplicates posts. There are extensions that allow you find posts with similar content, redirect duplicates to the post you are keeping, etc.
 
 ## Description ##
@@ -44,6 +44,9 @@ This plugin is released under the [GPL licence](http://www.gnu.org/copyleft/gpl.
 Alternatively, you can install the plugin automatically through the WordPress Admin interface by going to Plugins -> Add New and searching for Fix Duplicates.
 
 ## Changelog ##
+
+### 1.0.2 (7 July 2015) ###
+* Change: Allow users with the `delete_pages` capability to delete duplicates (instead of admins only).
 
 ### 1.0.1 (29 April 2015) ###
 * Security Fix: properly escape an instance of add_query_arg in order to prevent an XSS vulnerability.
