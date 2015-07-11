@@ -9,7 +9,7 @@
 
 **Tested up to:** 4.2.2
 
-**Stable tag:** 1.0.2
+**Stable tag:** 1.0.3
 
 Find and delete duplicates posts. There are extensions that allow you find posts with similar content, redirect duplicates to the post you are keeping, etc.
 
@@ -44,6 +44,9 @@ This plugin is released under the [GPL licence](http://www.gnu.org/copyleft/gpl.
 Alternatively, you can install the plugin automatically through the WordPress Admin interface by going to Plugins -> Add New and searching for Fix Duplicates.
 
 ## Changelog ##
+
+### 1.0.3 (12 July 2015) ###
+* Minor Fix: Prevent PHP warnings from occuring (by checking for the existence of GET variables before use).
 
 ### 1.0.2 (7 July 2015) ###
 * Change: Allow users with the `delete_pages` capability to delete duplicates (instead of admins only).
