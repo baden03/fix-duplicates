@@ -7,14 +7,14 @@
 
 **Requires at least:** 2.8.0
 
-**Tested up to:** 4.2.2
+**Tested up to:** 4.4.1
 
 **Stable tag:** 1.0.3
 
 Find and delete duplicates posts. There are extensions that allow you find posts with similar content, redirect duplicates to the post you are keeping, etc.
 
 ## Description ##
-Do you run a site with user submitted content? Do users submit the same post again and again? Use the [Fix Duplicates plugin](http://scratch99.com/products/fix-duplicates/) to find and delete duplicate posts. 
+Do you run a site with user submitted content? Do users submit the same post again and again? Use the [Fix Duplicates plugin](http://scratch99.com/products/fix-duplicates/) to find and delete duplicate posts.
 
 There is also a paid [Redirection extension](http://scratch99.com/products/fix-duplicates/redirection/) that preserves the link equity of removed duplicates by 301 redirecting them to the kept item.
 
